@@ -19,8 +19,3 @@ Sebze ve meyveleri yüksek doğrulukla sınıflandırabilen bu sistem, internet 
 Ek Bilgiler
 ResNet50 modeli, genel amaçlı bir sınıflandırma modeli olduğundan sınıflar arasında zaman zaman benzerlikler görülebilir. Model ilk çalıştırıldığında bazı dosyaları internet üzerinden indirir, bu nedenle uygulamanın doğru çalışabilmesi için internet bağlantısı gereklidir.
 
-Katkı Sağlamak İsteyenler İçin
-Projeye katkı sunmak isteyen geliştiriciler GitHub üzerinden repoyu fork'layabilir, geliştirme için yeni bir branch oluşturabilir ve değişiklikleri commit edip pull request ile katkıda bulunabilirler.
-
-Lisans ve İletişim
-Bu proje MIT lisansı ile açık kaynak olarak sunulmuştur. Her türlü soru, öneri ya da iş birliği talebi için GitHub profilimdeki iletişim bilgileri kullanılabilir.
